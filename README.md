@@ -1,6 +1,3 @@
-<h2 align=center> About Me</h2>
-<p align="center">I am a security-focused Systems Engineer with experience in cloud security & automated toolchain architecture<br>
-
 <h2 align=center> Skills</h2>
 
 <p align="center">
